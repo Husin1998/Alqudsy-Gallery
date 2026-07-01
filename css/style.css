@@ -1,1 +1,23 @@
 /* Style AlQudsy Gallery */
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, sans-serif;
+    background:#f8f8f8;
+    color:#222;
+    text-align:center;
+    padding:80px 20px;
+}
+
+h1{
+    color:#C9A227;
+    margin-bottom:15px;
+}
+
+p{
+    font-size:18px;
+}
